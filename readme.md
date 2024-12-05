@@ -41,9 +41,13 @@ A backend service for managing categories, options, user authentication, and oth
 
 3. Create a `.env` file in the root directory with the following variables:
    ```env
-   PORT=3000
-   MONGO_URI=your_mongodb_connection_string
-   JWT_SECRET=your_jwt_secret_key
+   PORT=
+   NODE_ENV=
+   MONGODB_URL=
+   JWT_SECRET_KEY=
+   COOKIE_SECRET_KEY=
+   MAP_IR_URL=
+   MAP_API_KEY=
    ```
 
 4. Run the development server:
