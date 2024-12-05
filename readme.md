@@ -41,13 +41,13 @@ A backend service for managing categories, options, user authentication, and oth
 
 3. Create a `.env` file in the root directory with the following variables:
    ```env
-   PORT=
-   NODE_ENV=
-   MONGODB_URL=
-   JWT_SECRET_KEY=
-   COOKIE_SECRET_KEY=
-   MAP_IR_URL=
-   MAP_API_KEY=
+   PORT
+   NODE_ENV
+   MONGODB_URL
+   JWT_SECRET_KEY
+   COOKIE_SECRET_KEY
+   MAP_IR_URL
+   MAP_API_KEY
    ```
 
 4. Run the development server:
