@@ -30,7 +30,7 @@ A backend service for managing categories, options, user authentication, and oth
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-repo/divar-backend.git
+   git clone https://github.com/mohsen104/divar-backend.git
    cd divar-backend
    ```
 
